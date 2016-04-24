@@ -31,7 +31,7 @@
  <p>  
 - 型男计划 	
   - **公司/职位：** 个人项目(已开源)
-  - **负责模块：** 负责 Android 端与 Serer 端的编写，项目的整体设计与架构。
+  - **负责模块：** 负责 Android 端与 Server 端的编写，项目的整体设计与架构。
   - **项目描述：**型男计划  是根据我自己成功减肥的经历改编而成的一款健康减肥app。通过计划管理，摄入支出管理，身材趋势走向等方面，更加合理直观帮助个人减肥。项目采用全新的 material design 设计，纯正 Android 风。
   - ** github 地址：**  https://github.com/zszdevelop/GraduationProject  
     
