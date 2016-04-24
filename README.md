@@ -13,7 +13,7 @@
 - 熟练掌握 Android 四大组件，界面布局，屏幕适配等 Android 基础
 - 熟悉 Android MVC，了解 MVP 设计模式
 - 熟练使用 volley 与 okhttp 网络请求
-- 熟练使用 okhttp 事件总线 响应数据
+- 熟练使用 EventBus 事件总线 响应数据
 - 熟练使用 Fresco 与 picasso 进行网络图片加载 
 - 熟练使用 gson 解析 json数据
 - 熟悉 Android Material Design 设计思想，熟练使用 Material Design 新控件
